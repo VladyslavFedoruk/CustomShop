@@ -7,7 +7,7 @@
 
             const fullNameInput = form.querySelector('.fullNameInput');
             const citySelect = form.querySelector('#city-select');
-            const addressInput = form.querySelector('.text');
+            const addressInput = form.querySelector('.addressInput');
             const paymentMethod = form.querySelector('input[name="contact"]:checked');
             const productQuantityInput = form.querySelector('.counterInput');
             const commentsTextarea = form.querySelector('textarea');
